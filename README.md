@@ -16,4 +16,4 @@ FILES:<br>
 <b>models</b> - contains the dataset-trained models themselves in .h5 format;<br>
 <b>AVERAGE_ENSEMBLE_97_accur.ipynb</b> - code file of the final ensemble model;<br>
 <b>Algorithm.png</b> - shows what the project consists of;<br>
-<b>VKR_PRESENTATION_2.pdf</b> - presentation of the project.
+<b>VKR_PRESENTATION_2.pdf</b> - slides of the project.
