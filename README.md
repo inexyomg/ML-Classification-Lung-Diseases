@@ -11,9 +11,9 @@ Such an algorithm can serve as an auxiliary tool in the diagnostic process, but 
 This thesis examines the development of medical imaging. 
 Future research directions may include exploring additional preprocessing methods, integrating more diverse data sets, and developing more complex models to improve the accuracy and generalizability of the algorithm.
 
-FILES:
+FILES:<br>
 models-ipynbs - contains project code files for each of the trained models (mobilenet, resnet, xception);<br>
-models - contains the dataset-trained models themselves in .h5 format;
-AVERAGE_ENSEMBLE_97_accur.ipynb - code file of the final ensemble model;
-Algorithm.png - shows what the project consists of;
+models - contains the dataset-trained models themselves in .h5 format;<br>
+AVERAGE_ENSEMBLE_97_accur.ipynb - code file of the final ensemble model;<br>
+Algorithm.png - shows what the project consists of;<br>
 VKR_PRESENTATION_2.pdf - presentation of the project.
