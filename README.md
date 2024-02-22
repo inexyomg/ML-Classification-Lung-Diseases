@@ -12,8 +12,8 @@ This thesis examines the development of medical imaging.
 Future research directions may include exploring additional preprocessing methods, integrating more diverse data sets, and developing more complex models to improve the accuracy and generalizability of the algorithm.
 
 FILES:<br>
-models-ipynbs - contains project code files for each of the trained models (mobilenet, resnet, xception);<br>
-models - contains the dataset-trained models themselves in .h5 format;<br>
-AVERAGE_ENSEMBLE_97_accur.ipynb - code file of the final ensemble model;<br>
-Algorithm.png - shows what the project consists of;<br>
-VKR_PRESENTATION_2.pdf - presentation of the project.
+<b>models-ipynbs</b> - contains project code files for each of the trained models (mobilenet, resnet, xception);<br>
+<b>models</b> - contains the dataset-trained models themselves in .h5 format;<br>
+<b>AVERAGE_ENSEMBLE_97_accur.ipynb</b> - code file of the final ensemble model;<br>
+<b>Algorithm.png</b> - shows what the project consists of;<br>
+<b>VKR_PRESENTATION_2.pdf</b> - presentation of the project.
